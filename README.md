@@ -6,7 +6,7 @@ In this repository you will find each piece of code for each plot, to make it ea
 
 We are going to answer some really interesting questions to have an idea of how our data about emissions looks like.
 
-1. Have total emissions in the United States from 1999 to 2008? 
+1. **Have total emissions in the United States from 1999 to 2008?**
 Using the base plotting system, I will make a plot showing the total emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 
 
