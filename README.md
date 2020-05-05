@@ -9,7 +9,7 @@ We are going to answer some really interesting questions to have an idea of how 
 1. **Have total emissions in the United States from 1999 to 2008?**
 
 Using the base plotting system, I will make a plot showing the total emission from all sources for each of the years 1999, 2002, 2005, and 2008.
-![](Plots(image)/plot1.png)
+![](Plots%20(image)/plot1.png)
 
 
 2. **Have total emissions from PM2.5 decreased in the Baltimore City, Maryland fips == "24510" from 1999 to 2008?**
